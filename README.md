@@ -5,6 +5,10 @@ MODIFICATION PAR BEN !
 cheikh
 voici le footer 
 Valentin
+
+
+stripe ajouté 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
